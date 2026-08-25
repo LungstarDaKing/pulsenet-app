@@ -1,0 +1,10 @@
+CPR
+Choking
+Bleeding
+Heart attack
+Stroke
+Burns
+Fractures
+Seizures
+Allergic reaction
+Diabetic emergency
