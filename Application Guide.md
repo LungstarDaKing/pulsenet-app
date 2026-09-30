@@ -1,6 +1,6 @@
-# CLAUDE.md
+# Application Guide.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with the PulseNet Flutter application.
+This file provides guidance to when working with the PulseNet Flutter application.
 
 ## Project Overview
 
